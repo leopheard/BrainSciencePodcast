@@ -7,4 +7,4 @@ For the curious! We’re exploring the inner-workings of the human brain to unde
 
 ^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
-<a href="https://changelog.com/brainscience"><img src="https://cdn.changelog.com/uploads/covers/brain-science-medium.png?v=63725770749">
+<a href="https://changelog.com/brainscience"><img src="https://cdn.changelog.com/uploads/covers/brain-science-medium.png?v=63725770749"><br><a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
