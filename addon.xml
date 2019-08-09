@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.brainsciencepodcast" name="Brain Science Podcast" version="1.0.0" provider-name="leopheard">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
+    <import addon="script.module.requests" version="1.1.0"/>
+    <import addon="script.module.routing" version="0.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language>en_us</language>
+    <summary lang="en">Brain Science Podcast</summary>
+    <description lang="en">A podcast for the curious! We’re exploring the inner-workings of the human brain to understand behavior change, habit formation, mental health, and being human</description>
+    <license>The MIT License (MIT)</license>
+    <forum>https://forum.kodi.tv/showthread.php?tid=</forum>
+    <email>leopheard@gmail.com</email>
+    <source>https://www.github.com/leopheard/BrainSciencePodcast</source>
+    <website>https://couragetoresist.org/category/podcasts/</website>
+        	<assets>
+			<icon>resources/media/icon.png</icon>
+			<fanart>resources/media/fanart.jpg</fanart>
+			<screenshot>resources/media/icon.png</screenshot>
+			<screenshot>resources/media/screen1.png</screenshot>
+			<screenshot>resources/media/icon.png</screenshot>
+		</assets>
+  </extension>
+</addon>
