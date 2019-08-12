@@ -18,9 +18,7 @@ def get_playable_podcast(soup):
     @param: parsed html page            
     """
     subjects = []
-
     for content in soup.find_all('item'):
-        
         try:        
             link = content.find('enclosure')
             link = link.get('url')
